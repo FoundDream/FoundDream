@@ -25,5 +25,21 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoundDream&theme=github_dark_dimmed&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoundDream&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+Hi! i am ziwen<br>
+A Front-end infrastructure and engineering efficiency developer. Open Source Enthusiast😊 
+
+- 工作经历：
+  - 实习工作：
+     - 美团 - 金融服务部门 - Focus on C端商城
+     - 泰康在线 - 健康险部门 - Focus on insurance page
+       
+- 学习前端的时间：2024.02 -- 至今
+  - 喜欢钻研前端开发，热爱开源
+  - 探索AI中<br>
+
+### 努力努力再努力✨✨✨
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoundDream&hide=vue,css,html,smarty&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoundDream&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
