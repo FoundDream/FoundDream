@@ -25,4 +25,5 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoundDream&theme=github_dark_dimmed&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoundDream&theme=github_dark_dimmed&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoundDream&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
