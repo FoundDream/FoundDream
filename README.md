@@ -2,7 +2,7 @@
   <h1 height="200px" align="center">
    Hello <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm ziwen
   </h1>
-   <p align="center">A frontend developer from China 👨‍💻</p>
+   <p align="center">A frontend developer from China 👨‍💻 Open Source Enthusiast</p>
 </p>
 
 <!-- 
@@ -27,9 +27,6 @@
 
 <br>
 
-Hi! i am ziwen<br>
-A Front-end infrastructure and engineering efficiency developer. Open Source Enthusiast😊 
-
 - 工作经历：
   - 实习工作：
      - 美团 - 金融服务部门 - Focus on C端商城
@@ -40,6 +37,6 @@ A Front-end infrastructure and engineering efficiency developer. Open Source Ent
   - 探索AI中<br>
 
 ### 努力努力再努力✨✨✨
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoundDream&hide=vue,css,html,smarty&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoundDream&hide=html&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoundDream&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
