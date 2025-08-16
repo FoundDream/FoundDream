@@ -2,7 +2,6 @@
   <h1 height="200px" align="center">
    Hello <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm ziwen
   </h1>
-   <p align="center">👨‍💻 Open Source Enthusiast</p>
 </p>
 
 <br>
