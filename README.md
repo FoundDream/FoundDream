@@ -20,6 +20,8 @@
   - ADVENTUREX 2025 一等奖🥇
   - 开源之夏
   - 腾讯犀牛鸟
+ 
+- Focus On [MineContext](https://github.com/volcengine/MineContext) 
 
 ### 努力努力再努力✨✨✨
 
