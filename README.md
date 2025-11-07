@@ -21,7 +21,13 @@
   - 开源之夏
   - 腾讯犀牛鸟
  
-- Focus On [MineContext](https://github.com/volcengine/MineContext) 
+- Focus On [MineContext](https://github.com/volcengine/MineContext)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,vite,nodejs,python,nextjs,nestjs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FoundDream&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoundDream&layout=compact&theme=tokyonight" />
+</p>
 
 ### 努力努力再努力✨✨✨
 
