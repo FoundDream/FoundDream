@@ -1,30 +1,28 @@
-<p align="center">
-  <h1 height="200px" align="center">
-   Hello <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm ziwen
-  </h1>
-</p>
+# Hi, I'm Ziwen 👋
 
-- 实习经历：
-  - 泰康在线 - 健康险
-  - 美团 - 金融服务
-  - 小红书 - 社区
-  - 字节跳动 - Data
-       
-- 学习编程的时间：2024.02 -- 至今
-  - 热爱开源
-  - 这是我的个人网站：[点击进入](https://www.ziwen.icu/)
+📍 **Beijing, China** | 🚀 **StartUp Co-Founder**
 
-- 获奖/开源经历
-  - ADVENTUREX 2025 一等奖 🥇
-  - 开源之夏 - 已结项
-  - 腾讯犀牛鸟
-  - [MineContext](https://github.com/volcengine/MineContext)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-- Startup Co-Founder
+## Experience
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,vite,nodejs,python,nextjs,nestjs" />
-</p>
+## Fulltime
+- **AI StartUp Co-Founder** - Now.
 
-### 努力努力再努力✨✨✨
+### Internship
+- **Taikang Online** - 2024
+- **Meituan** - 2024
+- **RedNote** - 2025
+- **ByteDance** - 2025
+
+### Rewards
+- **AdventureX 2025 First Prize**
+- **OSPP 2025 Advanced Project**
+
 
