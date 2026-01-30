@@ -12,6 +12,10 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
+## Current Projects
+- ✍️ **[Gleam](https://github.com/FoundDream/Gleam)** - Translate on-the-fly, capture screenshots, and collect inspiration—all with blazing-fast performance. 
+- 💫 **[MineContext](https://github.com/volcengine/MineContext)** - Proactive context-aware AI partner
+
 ## Experience
 - **AI StartUp Co-Founder** - Now.
 - **Taikang Online** - 2024
