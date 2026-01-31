@@ -25,4 +25,7 @@
 - **AdventureX 2025 First Prize**
 - **OSPP 2025 Advanced Project**
 
+## GitHub Activity
+![GitHub Contribution Graph](https://ghchart.rshah.org/FoundDream)
+
 
