@@ -13,6 +13,7 @@
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ## Current Projects
+- 💕 **[sysopt](https://github.com/FoundDream/sysopt)** - A cli that can clean your macos storage.
 - 🦞 **[miniclawd](https://github.com/FoundDream/miniclawd)** - A lightweight openclaw build with TypeScript.
 - ✍️ **[Gleam](https://github.com/FoundDream/Gleam)** - Translate on-the-fly, capture screenshots, and collect inspiration—all with blazing-fast performance. 
 - 💫 **[MineContext](https://github.com/volcengine/MineContext)** - Proactive context-aware AI partner
