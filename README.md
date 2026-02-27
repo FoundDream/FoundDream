@@ -1,6 +1,6 @@
 # Hi, I'm Ziwen 👋
 
-📍 **Beijing, China** | 🚀 **StartUp Co-Founder**
+📍 **Beijing, China** | 🚀 **StartUp Co-Founder**｜🪼 **AirJelly**
 
 > Building Proative Personal Agent For EveryOne 💙
 
