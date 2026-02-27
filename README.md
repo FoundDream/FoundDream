@@ -18,10 +18,10 @@
 
 ## Experience
 - **AI StartUp Co-Founder** - Now.
-- **Taikang Online** - 2024
-- **Meituan** - 2024
-- **RedNote** - 2025
 - **ByteDance** - 2025
+- **RedNote** - 2025
+- **Meituan** - 2024
+- **Taikang Online** - 2024
 - **AdventureX 2025 First Prize**
 - **OSPP 2025 Advanced Project**
 
