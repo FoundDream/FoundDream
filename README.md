@@ -12,6 +12,8 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
+👀 **Website**: www.ziwen.icu
+
 ## Current Projects
 - 🦞 **[miniclawd](https://github.com/FoundDream/miniclawd)** - A lightweight openclaw build with TypeScript.
 - 💫 **[MineContext](https://github.com/volcengine/MineContext)** - Proactive context-aware AI partner
