@@ -15,6 +15,7 @@
 👀 **Website**: www.ziwen.icu
 
 ## Current Projects
+- 🦋 **[OpenRecap](https://github.com/FoundDream/OpenRecap)** - Review Claude Code sessions and generate beautiful learning reports.
 - 🦞 **[miniclawd](https://github.com/FoundDream/miniclawd)** - A lightweight openclaw build with TypeScript.
 - 💫 **[MineContext](https://github.com/volcengine/MineContext)** - Proactive context-aware AI partner
 
