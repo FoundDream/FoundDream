@@ -19,7 +19,7 @@
 - 💫 **[MineContext](https://github.com/volcengine/MineContext)** - Proactive context-aware AI partner
 
 ## Experience
-- **AirJelly Co-Founder** - Now.
+- **AirJelly Co-Founder** - 2025 - Now.
 - **ByteDance** - 2025
 - **RedNote** - 2025
 - **Meituan** - 2024
