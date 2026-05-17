@@ -15,6 +15,7 @@
 👀 **Website**: www.ziwen.icu
 
 ## Current Projects
+- 📄 **[Quire](https://github.com/FoundDream/Quire)** - A cold-toned, chromatically monochrome design system for editorial documents.
 - 🦞 **[miniclawd](https://github.com/FoundDream/miniclawd)** - A lightweight openclaw build with TypeScript.
 - 💫 **[MineContext](https://github.com/volcengine/MineContext)** - Proactive context-aware AI partner
 
